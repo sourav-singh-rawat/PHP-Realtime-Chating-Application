@@ -1,0 +1,51 @@
+#sendButton{
+    outline: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:none;
+    background-color: #70E75F;
+    margin-right: 8%;
+}
+#txtArea{
+    width:82%;
+    height: 35px;
+    margin-left: 2%;
+    border-radius: 10px;
+    resize: none;
+    outline: none;
+    padding-left:20px;
+}
+/* #left{
+    text-align: left;
+} */
+#right{
+    margin-left: 80%;;
+}
+.widthSet{
+    width: 18%;
+    margin:10px 0 10px 0;
+}
+.chatmsgleft, .chatmsgright{
+    background-color: gray;
+    border-radius: 10px;
+    resize: none;
+    outline: none;
+    overflow-y: auto;
+    color:white;
+    font-weight: 600;
+    padding:5px 10px 5px 10px;
+}
+.chatmsgright{
+    background-color: #0879FA;
+}
+#chatWindow{
+    margin:10px 20px 10px 20px;  
+}
+#time{
+   display: block; 
+   margin-top:-20px;
+   margin-left:75%;
+   font-size: 12px;
+   color: grey;
+}

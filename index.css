@@ -1,0 +1,33 @@
+#box{
+    width: 500px;
+    height: 300px;
+    border:1px solid black;
+    margin-left: 450px;
+    margin-top: 25px;
+    box-shadow: 5px 10px grey;
+    border-radius: 5px;
+}
+#title{
+    text-align: center;
+    font-weight: bolder;
+    color: teal;
+    font-size: 100px;
+}
+#padded{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.inputArea{
+    border-radius: 5px;
+    border:2px solid teal;
+    padding-left: 4px;
+}
+#button{
+    background-color: teal;
+    border-radius: 4px;
+    color: white;
+    font-weight:bold;
+    border:2px solid white;
+    margin-left:80px;
+    margin-top: 10px;
+}
